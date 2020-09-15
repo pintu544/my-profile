@@ -1,8 +1,8 @@
-# jm251.github.io
+
 <h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://www.instagram.com/p/B1Kxb3uAAYby4_p-bhqBcCM3hX_ZxnPPZ7nms80/?hl=en" alt="pintu" /> </p>
+<p align="left"> <img src="https://www.facebook.com/photo?fbid=477508712789962&set=pob.100015925119091" alt="pintu" /> </p>
 
 
 - 🔭 I’m currently working on web application projects using Django and python and other side using JSP and hibernate.
