@@ -2,7 +2,7 @@
 <h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://www.facebook.com/photo?fbid=477508712789962&set=pob.100015925119091" alt="pintu" /> </p>
+<p align="left"> <img src="[https://www.facebook.com/photo?fbid=477508712789962&set=pob.100015925119091](https://media-exp1.licdn.com/dms/image/D4D35AQH7YJrBbHyAYQ/profile-framedphoto-shrink_200_200/0/1662091748648?e=1662699600&v=beta&t=NamCRQD05mJJpohU3sbhXxfOT7-coPlK8gWqhAsJZv0)" alt="pintu" /> </p>
 
 
 - 🔭 I’m currently working on web application projects using HTML,CSS and JS and other side using JSP and Firebase.
