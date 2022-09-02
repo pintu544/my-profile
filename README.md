@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://www.facebook.com/photo?fbid=477508712789962&set=pob.100015925119091" alt="pintu" /> </p>
 
 
-- 🔭 I’m currently working on web application projects using Django and python and other side using JSP and hibernate.
-- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Machine Learning**.
-- 👯 I’m looking to collaborate on machine leaning and data science project.
+- 🔭 I’m currently working on web application projects using HTML,CSS and JS and other side using JSP and Firebase.
+- 🌱 I’m currently learning  **DSA,Frontend,Backend,React**.
+- 👯 I’m looking to collaborate on Backend and React project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-- 🔭 I’m currently working on **Shopping app and twitter clone**
+- 🔭 I’m currently working on ** Tracker App**
 
-- 👯 I’m looking to collaborate on **Django Application**
+- 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jm251](https://github.com/jm251)
+- 👨‍💻 All of my projects are available at [https://github.com/jm251](https://github.com/pintu544)
 
 - 📝 I regulary write articles on [jm251.github.io](https:jm251.github.io)
 
-- 💬 Ask me about **Java,Python,Web Developement,Wordpress,AWS,DBMS,DS&Algo,CN,Linux,Android**
+- 💬 Ask me about **Java,Web Developement,OS,DBMS,DS&Algo,System Design,React.
 
 - 📫 How to reach me **jm0046476@gmail.com**
 
@@ -35,20 +35,26 @@
 
 <img src="https://img.icons8.com/office/16/000000/react.png" alt="react" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
+
+<img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-API-vkontakte-others-inmotus-design-3.png" alt="apis" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/>
+
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://i.ibb.co/9T29DD0/selenium.png" alt="selenium" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p><br><br>
+<img src="[https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg](https://img.icons8.com/color/48/000000/mysql-logo.png)" alt="mysql" width="40" height="40"/> 
+
+
+</p><br><br>
 
 
 
