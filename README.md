@@ -51,7 +51,8 @@
 
 
 
-<img src="[https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg](https://img.icons8.com/color/48/000000/mysql-logo.png)" alt="mysql" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="redux" width="40" height="40"/>
+
 
 
 </p><br><br>
