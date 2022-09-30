@@ -89,6 +89,7 @@ Happy coding !!
 </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&locale=en" alt="pintu-kumar" /></p>
 
 
 
