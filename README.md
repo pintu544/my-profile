@@ -88,6 +88,7 @@ Happy coding !!
 <a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pintu" height="30" width="30" /></a>
 </p>
 
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pintu544&show_icons=true&locale=en&layout=compact" alt="Pintu Kumar profile github states" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&locale=en" alt="pintu-kumar" /></p>
 
