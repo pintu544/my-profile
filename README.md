@@ -67,9 +67,7 @@
 
 
 
-<div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/pintu544/profile-3d-contrib/profile-season-animate.svg" width="100%"/>
-</div>
+
 
 
 <br><br>
@@ -100,6 +98,61 @@ Happy coding !!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&locale=en" alt="pintu-kumar" /></p>
 
 
+# 🚀 Actions 🚀
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
+</div>
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu544&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pintu544&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+<br>
+
+<!-- Dynamic Quotes -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</div>
+
+ 
+<br>
+
+
+
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 💯
+
+<!-- wakatime 统计 -->
+<table align="center">
+  <tr>
+    <td valign="top">  
+    <!--START_SECTION:waka-->
+
+ Last Updated on 30/09/2022 02:31:25 UTC
+<!--END_SECTION:waka-->
+    </td>
+  </tr>
+</table>
+
+<!-- metrics 基础资料 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/pintu544/pintu544/github-metrics.svg" alt="base metrics" width="75%"/>
+</div>
+
+<!-- just img -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
+</div>
 
 
 
