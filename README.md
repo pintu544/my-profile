@@ -145,9 +145,7 @@ Happy coding !!
 </table>
 
 <!-- metrics 基础资料 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/pintu544/github-metrics.svg" alt="base metrics" width="75%"/>
-</div>
+
 
 <!-- just img -->
 <div align="center">
