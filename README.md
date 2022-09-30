@@ -67,7 +67,9 @@
 
 
 
-
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/pintu544/profile-3d-contrib/profile-season-animate.svg" width="100%"/>
+</div>
 
 
 <br><br>
@@ -91,12 +93,7 @@ Happy coding !!
 </p>
 
 
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=Typescript&logoColor=white)
+
 
   <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pintu544&show_icons=true&locale=en&layout=compact" alt="Pintu Kumar profile github states" /></p>
 
